@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>디써니의 개발 플레이어 v2.020</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-06-14T00:00:00+09:00</updated><entry><title>dSunny Player .0614: GitHub Pages 시작</title><link href="/dsunny-player-0614-github-pages-sijag.html" rel="alternate"></link><published>2020-06-14T00:00:00+09:00</published><updated>2020-06-14T00:00:00+09:00</updated><author><name>디써니</name></author><id>tag:None,2020-06-14:/dsunny-player-0614-github-pages-sijag.html</id><summary type="html">&lt;h1&gt;디써니의 플레이어 v2.020&lt;/h1&gt;
+&lt;h1&gt;Build Version .0614 로 첫 선을 보이다.&lt;/h1&gt;
+&lt;h1&gt;선택 배경과 주요 예정 컨텐츠&lt;/h1&gt;
+&lt;p&gt;SSG(Static Site Generator)로 Pelican을 선택하였다.
+Pelican이 최신 트렌드를 반영하는 SSG는 아니지만, 테마를 직접 적용하고 커스터마이징하는 과정에서 Python, jinja2 를 활용할 수 있다는 점이 내가 Pelican을 채택한 근거이다.
+나는 Swift를 PL로 쓰는 iOS개발자이지만 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;디써니의 플레이어 v2.020&lt;/h1&gt;
+&lt;h1&gt;Build Version .0614 로 첫 선을 보이다.&lt;/h1&gt;
+&lt;h1&gt;선택 배경과 주요 예정 컨텐츠&lt;/h1&gt;
+&lt;p&gt;SSG(Static Site Generator)로 Pelican을 선택하였다.
+Pelican이 최신 트렌드를 반영하는 SSG는 아니지만, 테마를 직접 적용하고 커스터마이징하는 과정에서 Python, jinja2 를 활용할 수 있다는 점이 내가 Pelican을 채택한 근거이다.
+나는 Swift를 PL로 쓰는 iOS개발자이지만, 이 선택으로 1주일에 1~2시간 정도는 서브 PL로써 Python을 잘 활용해보고 싶다. 당연히 iOS/macOS 개발의 메인 PL인 Swift의 학습/활용 및 개발 테크닉, 설계 방법에 대한 공부가 우선시되어야 할 것이고, 블로그의 메인 컨텐츠도 주로 그 내용이 될 것이다.
+그러고나서 남는 시간을 쪼개어 서브 PL로 활용할 Python과 관련된 학습, 컨텐츠 업로드가 이뤄지지 않을까 하는 작은 기대를 해본다.&lt;/p&gt;
+&lt;h1&gt;올해의 목표&lt;/h1&gt;
+&lt;p&gt;스타트업과 지금 다니는 회사에서의 경력을 합치면 iOS 개발 경력은 만 4년이 조금 넘는다.
+Swift 1.0 -&amp;gt; Objective-C (2016.09 ~ 2018.12) -&amp;gt; 다시 Swift (2019.01~ SSG프로젝트 리뉴얼 시점)
+Swift가 제공하는 Modern language로써의 기능을 적절히 활용할 수 있는가에 대한 나의 대답은 아직 NO이다.
+여태 공부했던 지식, 기본 설계 방향을 올해 재정립하여 시니어 개발자의 길을 이을 것이다.
+지난 3년 간 나는 단지 Cocoa Framework 의 API를 적절히 잘 사용했을 뿐이다.
+더 완성된 형태의 개발자로 성장하기 위해선 API만 잘 활용하는 개발자이기보다는, 설계와 분석에 초점을 두고 성장하는 개발자가 되고 싶다.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
