@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>디써니의 플레이어 v2.020</title><link href="/" rel="alternate"></link><link href="feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-06-14T00:00:00+09:00</updated><entry><title>GitHub Pages 첫 시작</title><link href="github-pages-ceos-sijag.html" rel="alternate"></link><published>2020-06-14T00:00:00+09:00</published><updated>2020-06-14T00:00:00+09:00</updated><author><name>Sunny Jeon</name></author><id>tag:None,2020-06-14:github-pages-ceos-sijag.html</id><summary type="html">&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>dSunny90</title><link href="/ko/" rel="alternate"></link><link href="feeds/all.atom.xml" rel="self"></link><id>/ko/</id><updated>2020-06-14T00:00:00+09:00</updated><entry><title>GitHub Pages 첫 시작</title><link href="/ko/github-pages-ceos-sijag.html" rel="alternate"></link><published>2020-06-14T00:00:00+09:00</published><updated>2020-06-14T00:00:00+09:00</updated><author><name>Sunny Jeon</name></author><id>tag:None,2020-06-14:/ko/github-pages-ceos-sijag.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;블로그 제목: 디써니의 플레이어 v2.020&lt;/li&gt;
 &lt;li&gt;블로그 엔진: Pelican (based on Python)&lt;/li&gt;
 &lt;li&gt;정적 페이지 호스팅: GitHub Pages&lt;/li&gt;
